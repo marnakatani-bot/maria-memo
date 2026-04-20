@@ -76,4 +76,4 @@
 
 *中谷まり亜 / Maria Nakatani*  
 *関連: [次元マッピング理論](https://github.com/marnakatani-bot/maria-dimension-map-)*  
-*関連理論: [うさぴょん仮説](../theory/usapyon-hypothesis.md) / [トラウマ・リソース再定義](../theory/trauma-as-resource.md)*
+*関連理論: [うさぴょん仮説](../theory/うさぴょん仮説.md) / [トラウマ・リソース再定義](../theory/トラウマリソース再定義仮説.md)*

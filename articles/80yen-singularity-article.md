@@ -77,10 +77,10 @@
 
 ## 関連理論リンク
 
-- [80円・9円の特異点](../theory/80yen-singularity.md)
-- [インフレーションと発熱の同期構造](../theory/inflation-fever-sync.md)
-- [うさぴょん仮説](../theory/usapyon-hypothesis.md)
-- [現像前演算仮説](../theory/reality-rendering-physics.md)
+- [80円・9円の特異点](../theory/80円・9円の特異点.md)
+- [インフレーションと発熱の同期構造](../theory/インフレーションと発熱の同期構造.md)
+- [うさぴょん仮説](../theory/うさぴょん仮説.md)
+- [現像前演算仮説](../theory/現像前演算仮説.md)
 
 ---
 

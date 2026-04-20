@@ -1,28 +1,33 @@
 ---
 
-## 📂 理論フォルダ 日本語索引
+## 📂 理論フォルダ 索引（ファイル名＝日本語）
 
-| ファイル名（英語） | 内容 |
+| ファイル名 | 内容 |
 |---|---|
-| `80yen-singularity` | 80円・特異点 |
-| `body-intelligence-recalibration` | 身体知性の再調整 |
-| `brain-os-protocol` | 脳OSプロトコル |
-| `collective-consciousness-reboot` | 集合意識のリブート |
-| `economic-als-accelerator` | 経済加速器 |
-| `fabric-bead-mutual-interference` | 布×ビーズの相互干渉 |
-| `fabric-dynamics-vortex` | 布のダイナミクス・渦 |
-| `fabric-gravity-warp` | 布×重力ワープ |
-| `frequency-protocol-bear` | 周波数プロトコル・熊 |
-| `holographic-state-information` | ホログラフィック状態情報 |
-| `inflation-fever-sync` | インフレ熱同期 |
-| `karma-dissolution` | カルマ解消 |
-| `latent-heat-phase-lag` | 潜熱位相遅延（相転移・凪の理論）|
-| `multidimensional-observation-protocol` | 多次元観測プロトコル |
-| `parallel-world` | パラレルワールド |
-| `reality-rendering-physics` | 現実レンダリング物理学 |
-| `resonance-vs-audit` | 共鳴対監査 |
-| `rinne-phenomenon` | 輪廻現象 |
-| `shopping-overload-mechanism` | 買い物過多メカニズム |
-| `silk-bead-lubrication` | シルクビーズ潤滑剤 |
-| `sn-ratio-observation` | S/N比観測 |
-| `sporadic-e-sync` | スポラディックE同期 |
+| `80円・9円の特異点.md` | 81マス反転現像・再加熱 |
+| `信号対雑音比最適化仮説.md` | 不足状態を観測環境として再定義 |
+| `シンクロニシティ相関構造仮説.md` | 相関構造・人為寄与の再評価 |
+| `うさぴょん仮説.md` | インフレ／再加熱の膜・ビーズモデル |
+| `インフレーションと発熱の同期構造.md` | 宇宙論と発熱の対応 |
+| `潜熱と位相差.md` | 凪・相転移・観測と現像のラグ |
+| `買い物高負荷ミッション仮説.md` | 4色型色覚と高次元演算の負荷 |
+| `りんね現象.md` | 周波数非同期と12の閉じた円 |
+| `多次元観測プロトコル.md` | 次元別レンズの明示 |
+| `カルマの解体.md` | 線形因果のパージと「今」 |
+| `身体知性による再配置.md` | リラックスと身体のNO |
+| `京都事件の多次元解剖.md` | 集合意識・盲点のフラクタル現像 |
+| `超伝導観測.md` | 摩擦ゼロ・13D還流 |
+| `布のたわみと情報重力.md` | 情報重力と等辺観測 |
+| `ホログラフィック原理と状態情報仮説.md` | 状態情報のエンコード |
+| `シルクの布を流れるビーズ.md` | 場による潤滑と学習の快感 |
+| `宇宙の布の物理学.md` | 渦と凪の二相サイクル |
+| `周波数プロトコル.md` | 抵抗・透過・プロトコル不一致 |
+| `脳OSプロトコル.md` | 冷却・起動・委託 |
+| `スポラディックE層理論.md` | Eスポ的シンクロと途切れ |
+| `トラウマリソース再定義仮説.md` | トラウマをセンサー資源として |
+| `布とビーズの相互干渉.md` | 自発性と因果の等辺性 |
+| `パラレルワールドと次元意識.md` | 3D／4D／5Dの選択の捉え方 |
+| `現像前演算仮説.md` | 布・角度・周波数の演算 |
+| `共鳴と審査の物理学.md` | SNSの共鳴と検品の対比 |
+| `経済的ALS加速装置.md` | 経済静止とBeの加速 |
+| `記事` | プレースホルダ（空に近いメモ） |

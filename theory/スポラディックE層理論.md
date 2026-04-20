@@ -92,4 +92,4 @@ Eスポ消滅後
 
 *中谷まり亜 / Maria Nakatani*  
 *関連: [次元マッピング理論](https://github.com/marnakatani-bot/maria-dimension-map-)*  
-*関連理論: [シンクロニシティ相関構造仮説](./synchronicity-correlation.md) / [80円・9円の特異点](./80yen-singularity.md)*
+*関連理論: [シンクロニシティ相関構造仮説](./シンクロニシティ相関構造仮説.md) / [80円・9円の特異点](./80円・9円の特異点.md)*

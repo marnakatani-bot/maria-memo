@@ -86,4 +86,4 @@
 
 *中谷まり亜 / Maria Nakatani*  
 *関連: [次元マッピング理論](https://github.com/marnakatani-bot/maria-dimension-map-)*  
-*関連理論: [潜熱と位相差](./latent-heat-phase-lag.md) / [インフレーションと発熱の同期構造](./inflation-fever-sync.md)*
+*関連理論: [潜熱と位相差](./潜熱と位相差.md) / [インフレーションと発熱の同期構造](./インフレーションと発熱の同期構造.md)*
