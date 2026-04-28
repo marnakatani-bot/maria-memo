@@ -44,9 +44,9 @@ status: draft
 
 ## 今回の適用例
 
-| GitHub ファイル名 | Obsidian title |
-|----------------|---------------|
-| `usapyon-theory-v1.md` | うさぴょん理論：空間と粒子の動態 |
-| `funo-theory-v1.md` | 布理論：素材の質感と情報定着 |
-| `funo-usapyon-v2.md` | 布理論×うさぴょん理論 V2.0 |
-| `substack-9yen-universe.md` | 残高9円から宇宙が動き出した |
+| GitHub ファイル名                | Obsidian title   |
+| --------------------------- | ---------------- |
+| `usapyon-theory-v1.md`      | うさぴょん理論：空間と粒子の動態 |
+| `funo-theory-v1.md`         | 布理論：素材の質感と情報定着   |
+| `funo-usapyon-v2.md`        | 布理論×うさぴょん理論 V2.0 |
+| `substack-9yen-universe.md` | 残高9円から宇宙が動き出した   |
