@@ -37,3 +37,6 @@
 | `共鳴と審査の物理学.md` | SNSの共鳴と検品の対比 |
 | `経済的ALS加速装置.md` | 経済静止とBeの加速 |
 | `記事` | プレースホルダ（空に近いメモ） |
+---
+
+Support this research: [Stripe](https://buy.stripe.com/14A7sK2Ep3Fe6L26ik2Nq01)
