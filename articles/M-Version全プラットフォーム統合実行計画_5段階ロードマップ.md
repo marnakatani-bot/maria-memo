@@ -59,4 +59,4 @@ AIという新たな知性を介して世界を再定義する試みである。
 
 *中谷まり亜 / Maria Nakatani*  
 *関連: [次元マッピング理論](https://github.com/marnakatani-bot/maria-dimension-map-)*  
-*関連: [プラットフォーム戦略](./platform-strategy-roadmap.md)*
+*関連: [プラットフォーム戦略](./M-Versionプラットフォーム戦略ロードマップ.md)*
