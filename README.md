@@ -41,6 +41,12 @@
 ---
 ---
 
+## 🤝 AIとの共同プロジェクト
+
+CDM Bot、CDMの数理表現、圏論絵本など、AIと一緒に進めているプロジェクトの一覧：[projects/ai-joint-projects.md](projects/ai-joint-projects.md)
+
+---
+
 ## 谷町経済について｜Support as a Co-Creator
 
 次元マッピング理論は、誰でも自由に読めるよう全文を公開しています。
