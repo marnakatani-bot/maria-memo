@@ -1,6 +1,6 @@
 # maria-memo
 
-[理論索引（全126本）](theory/00_索引.md) ／ [意識の次元マッピング（CDM）公式原典](https://github.com/marnakatani-bot/maria-dimension-map-)
+[理論索引（全127本）](theory/00_索引.md) ／ [意識の次元マッピング（CDM）公式原典](https://github.com/marnakatani-bot/maria-dimension-map-)
 
 このリポジトリに収録されているすべての理論・仮説は、中谷まり亜の実体験を起点としている。
 
