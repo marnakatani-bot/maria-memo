@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="500" viewBox="0 0 1000 500" role="img" aria-label="DNAの一段と複数段の重なり（模式図）">
+<rect width="1000" height="500" fill="#F5F8FC" rx="24"/>
+<text x="500" y="55" text-anchor="middle" font-size="29" font-weight="700" font-family="sans-serif" fill="#1E3652">DNAは、見る方向と重ねる段数で形が変わる</text>
+<text x="500" y="89" text-anchor="middle" font-size="17" font-family="sans-serif" fill="#52677F">らせん軸に沿って見た、塩基対の配置（模式図）</text>
+<rect x="35" y="114" width="450" height="321" fill="#FFFFFF" stroke="#D4E1ED" rx="17"/>
+<rect x="515" y="114" width="450" height="321" fill="#FFFFFF" stroke="#D4E1ED" rx="17"/>
+<text x="260" y="154" text-anchor="middle" font-size="23" font-weight="700" font-family="sans-serif" fill="#263C56">1段の塩基対</text>
+<text x="740" y="154" text-anchor="middle" font-size="23" font-weight="700" font-family="sans-serif" fill="#263C56">複数段を重ねて見る</text>
+<circle cx="260" cy="281" r="103" fill="#E4F0FB" fill-opacity=".35" stroke="#AFC5DA" stroke-width="2" stroke-dasharray="6 6"/>
+<line x1="170" y1="281" x2="350" y2="281" stroke="#A3C6AF" stroke-width="16" stroke-linecap="round"/>
+<line x1="170" y1="281" x2="260" y2="281" stroke="#DAA65E" stroke-width="7" stroke-linecap="round"/>
+<line x1="260" y1="281" x2="350" y2="281" stroke="#6AB5B5" stroke-width="7" stroke-linecap="round"/>
+<circle cx="170" cy="281" r="19" fill="#6A9BD1" stroke="#4473AA" stroke-width="2.5"/>
+<circle cx="350" cy="281" r="19" fill="#D58BA8" stroke="#A85D7D" stroke-width="2.5"/>
+<circle cx="260" cy="281" r="3" fill="#35536A"/>
+<text x="260" y="413" text-anchor="middle" font-size="17" font-family="sans-serif" fill="#536B80">2本の鎖と、それを結ぶ塩基対</text>
+<circle cx="740" cy="281" r="103" fill="#E4F0FB" fill-opacity=".35" stroke="#AFC5DA" stroke-width="2" stroke-dasharray="6 6"/>
+<g transform="rotate(0.0 740 281)" opacity="0.180"><line x1="650" y1="281" x2="830" y2="281" stroke="#659FAA" stroke-width="6.5" stroke-linecap="round"/><circle cx="650" cy="281" r="10" fill="#6A9BD1" stroke="#4473AA" stroke-width="1.5"/><circle cx="830" cy="281" r="10" fill="#D58BA8" stroke="#A85D7D" stroke-width="1.5"/></g>
+<g transform="rotate(34.3 740 281)" opacity="0.245"><line x1="650" y1="281" x2="830" y2="281" stroke="#659FAA" stroke-width="6.5" stroke-linecap="round"/><circle cx="650" cy="281" r="10" fill="#6A9BD1" stroke="#4473AA" stroke-width="1.5"/><circle cx="830" cy="281" r="10" fill="#D58BA8" stroke="#A85D7D" stroke-width="1.5"/></g>
+<g transform="rotate(68.6 740 281)" opacity="0.310"><line x1="650" y1="281" x2="830" y2="281" stroke="#659FAA" stroke-width="6.5" stroke-linecap="round"/><circle cx="650" cy="281" r="10" fill="#6A9BD1" stroke="#4473AA" stroke-width="1.5"/><circle cx="830" cy="281" r="10" fill="#D58BA8" stroke="#A85D7D" stroke-width="1.5"/></g>
+<g transform="rotate(102.9 740 281)" opacity="0.375"><line x1="650" y1="281" x2="830" y2="281" stroke="#659FAA" stroke-width="6.5" stroke-linecap="round"/><circle cx="650" cy="281" r="10" fill="#6A9BD1" stroke="#4473AA" stroke-width="1.5"/><circle cx="830" cy="281" r="10" fill="#D58BA8" stroke="#A85D7D" stroke-width="1.5"/></g>
+<g transform="rotate(137.2 740 281)" opacity="0.440"><line x1="650" y1="281" x2="830" y2="281" stroke="#659FAA" stroke-width="6.5" stroke-linecap="round"/><circle cx="650" cy="281" r="10" fill="#6A9BD1" stroke="#4473AA" stroke-width="1.5"/><circle cx="830" cy="281" r="10" fill="#D58BA8" stroke="#A85D7D" stroke-width="1.5"/></g>
+<g transform="rotate(171.5 740 281)" opacity="0.505"><line x1="650" y1="281" x2="830" y2="281" stroke="#659FAA" stroke-width="6.5" stroke-linecap="round"/><circle cx="650" cy="281" r="10" fill="#6A9BD1" stroke="#4473AA" stroke-width="1.5"/><circle cx="830" cy="281" r="10" fill="#D58BA8" stroke="#A85D7D" stroke-width="1.5"/></g>
+<g transform="rotate(205.8 740 281)" opacity="0.570"><line x1="650" y1="281" x2="830" y2="281" stroke="#659FAA" stroke-width="6.5" stroke-linecap="round"/><circle cx="650" cy="281" r="10" fill="#6A9BD1" stroke="#4473AA" stroke-width="1.5"/><circle cx="830" cy="281" r="10" fill="#D58BA8" stroke="#A85D7D" stroke-width="1.5"/></g>
+<g transform="rotate(240.1 740 281)" opacity="0.635"><line x1="650" y1="281" x2="830" y2="281" stroke="#659FAA" stroke-width="6.5" stroke-linecap="round"/><circle cx="650" cy="281" r="10" fill="#6A9BD1" stroke="#4473AA" stroke-width="1.5"/><circle cx="830" cy="281" r="10" fill="#D58BA8" stroke="#A85D7D" stroke-width="1.5"/></g>
+<g transform="rotate(274.4 740 281)" opacity="0.700"><line x1="650" y1="281" x2="830" y2="281" stroke="#659FAA" stroke-width="6.5" stroke-linecap="round"/><circle cx="650" cy="281" r="10" fill="#6A9BD1" stroke="#4473AA" stroke-width="1.5"/><circle cx="830" cy="281" r="10" fill="#D58BA8" stroke="#A85D7D" stroke-width="1.5"/></g>
+<g transform="rotate(308.7 740 281)" opacity="0.765"><line x1="650" y1="281" x2="830" y2="281" stroke="#659FAA" stroke-width="6.5" stroke-linecap="round"/><circle cx="650" cy="281" r="10" fill="#6A9BD1" stroke="#4473AA" stroke-width="1.5"/><circle cx="830" cy="281" r="10" fill="#D58BA8" stroke="#A85D7D" stroke-width="1.5"/></g>
+<g transform="rotate(343.0 740 281)" opacity="0.830"><line x1="650" y1="281" x2="830" y2="281" stroke="#659FAA" stroke-width="6.5" stroke-linecap="round"/><circle cx="650" cy="281" r="10" fill="#6A9BD1" stroke="#4473AA" stroke-width="1.5"/><circle cx="830" cy="281" r="10" fill="#D58BA8" stroke="#A85D7D" stroke-width="1.5"/></g>
+<circle cx="740" cy="281" r="4" fill="#35536A"/>
+<text x="740" y="413" text-anchor="middle" font-size="17" font-family="sans-serif" fill="#536B80">段ごとに回転して放射状に重なる</text>
+<text x="500" y="465" text-anchor="middle" font-size="16" font-family="sans-serif" fill="#5C6C80">概念図：B型DNAの約10.5塩基対／1回転を参考に作図。原子配置・縮尺を省略。</text>
+</svg>
