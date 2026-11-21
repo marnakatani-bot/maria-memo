@@ -84,3 +84,4 @@ Support this research: [Stripe](https://buy.stripe.com/14A7sK2Ep3Fe6L26ik2Nq01)
 [公開記事・投稿アーカイブ](archive/)
 
 2026-11-21：archive/ に note・Substack・Bluesky の公開記事一覧を追加（ea028f9bc1f7478482e5f940f7a0099203e52414）
+2026-11-21：archive/ に YouTube公開動画の一覧を追加（01d8454f585d990b0f2826bc5a3452bfee9950a2）
