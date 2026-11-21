@@ -80,3 +80,7 @@ CDM Bot、CDMの数理表現、圏論絵本など、AIと一緒に進めてい�
 
 中谷まり亜（Maria Nakatani）
 Support this research: [Stripe](https://buy.stripe.com/14A7sK2Ep3Fe6L26ik2Nq01)
+
+[公開記事・投稿アーカイブ](archive/)
+
+2026-11-21：archive/ に note・Substack・Bluesky の公開記事一覧を追加（ea028f9bc1f7478482e5f940f7a0099203e52414）
